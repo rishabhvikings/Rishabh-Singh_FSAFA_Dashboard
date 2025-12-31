@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 yfinance
-matplotlib
-scikit-learn
 plotly
 statsmodels
 scipy
+matplotlib
+scikit-learn
