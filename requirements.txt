@@ -1,2 +1,6 @@
-pip install yfinance
-pip freeze > requirements.txt
+streamlit
+pandas
+numpy
+yfinance
+matplotlib
+scikit-learn
